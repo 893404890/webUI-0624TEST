@@ -1,0 +1,61 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcase.test_adduser",
+    "children" : [ {
+      "name" : "test_adduser01[getuserinfo0]",
+      "uid" : "f2a0f0ab177fbaef",
+      "parentUid" : "f1ba18be871f7c9f8ad7d4ba8310bb57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624891987210,
+        "stop" : 1624891998906,
+        "duration" : 11696
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['周栒0', 'zx1', 1, '测试开发001', '1255783359@qq.com']" ]
+    }, {
+      "name" : "test_adduser01[getuserinfo1]",
+      "uid" : "f9ce0b710aa8bf80",
+      "parentUid" : "f1ba18be871f7c9f8ad7d4ba8310bb57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624892009446,
+        "stop" : 1624892017629,
+        "duration" : 8183
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['周栒1', 'zx2', 2, '测试开发002', '125783359@qq.com']" ]
+    }, {
+      "name" : "test_adduser01[getuserinfo2]",
+      "uid" : "3e9bbb909d7477ce",
+      "parentUid" : "f1ba18be871f7c9f8ad7d4ba8310bb57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624892027435,
+        "stop" : 1624892035510,
+        "duration" : 8075
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['周栒2', 'zx3', 3, '测试开发003', '125583359@qq.com']" ]
+    }, {
+      "name" : "test_adduser01[getuserinfo3]",
+      "uid" : "84b7e0ba1abcd485",
+      "parentUid" : "f1ba18be871f7c9f8ad7d4ba8310bb57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624892045515,
+        "stop" : 1624892053626,
+        "duration" : 8111
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "['周栒3', 'zx4', 4, '测试开发004', '125578339@qq.com']" ]
+    } ],
+    "uid" : "testcase.test_adduser"
+  } ]
+}
