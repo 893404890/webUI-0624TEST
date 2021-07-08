@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Jun 28 22:54:05 CST 2021","Mon Jun 28 22:54:13 CST 2021","8111","testcase","test_adduser","Test_add","","","test_adduser01[getuserinfo3]",""
-"passed","Mon Jun 28 22:53:47 CST 2021","Mon Jun 28 22:53:55 CST 2021","8075","testcase","test_adduser","Test_add","","","test_adduser01[getuserinfo2]",""
-"passed","Mon Jun 28 22:53:29 CST 2021","Mon Jun 28 22:53:37 CST 2021","8183","testcase","test_adduser","Test_add","","","test_adduser01[getuserinfo1]",""
-"passed","Mon Jun 28 22:53:07 CST 2021","Mon Jun 28 22:53:18 CST 2021","11696","testcase","test_adduser","Test_add","","","test_adduser01[getuserinfo0]",""

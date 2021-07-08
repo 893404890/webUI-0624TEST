@@ -1,15 +1,4 @@
 {
-  "total" : 1,
-  "items" : [ {
-    "uid" : "951e46d86364e3053f4726e842da7c04",
-    "name" : "企业微信web自动化测试",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 4,
-      "unknown" : 0,
-      "total" : 4
-    }
-  } ]
+  "total" : 0,
+  "items" : [ ]
 }
